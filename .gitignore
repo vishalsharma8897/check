@@ -1,0 +1,4 @@
+#i wanna hide the entire hiddenfolder
+hiddenfolder
+#i wanna hide only the secrets1.txt from hidden folder and not showsecrets
+hidden/secret1.txt
